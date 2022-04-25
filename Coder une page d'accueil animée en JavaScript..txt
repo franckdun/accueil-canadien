@@ -1,0 +1,14 @@
+	
+_________	Coder une page d'accueil animée en JavaScript.       ________
+
+
+	Chaine Youtube: Le Designer du Web
+
+
+	https://youtu.be/rmKHEey19Js
+
+______________________________________________________________________________
+
+greensock est une librairie js très connue. 
+
+https://greensock.com/
